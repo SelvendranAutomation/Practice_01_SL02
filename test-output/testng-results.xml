@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53814" started-at="2023-10-12T04:10:49Z" finished-at="2023-10-12T04:11:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53814" started-at="2023-10-12T04:10:49Z" finished-at="2023-10-12T04:11:43Z">
+      <class name="com.qa.tricentis.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tricentis.tests.HomePageTest@39c0f4a]" name="setUp" is-config="true" duration-ms="45715" started-at="2023-10-12T04:10:49Z" finished-at="2023-10-12T04:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCustomerServiceAndBlog()[pri:0, instance:com.qa.tricentis.tests.HomePageTest@39c0f4a]" name="verifyCustomerServiceAndBlog" duration-ms="5223" started-at="2023-10-12T04:11:35Z" finished-at="2023-10-12T04:11:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerServiceAndBlog -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tricentis.tests.HomePageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="2420" started-at="2023-10-12T04:11:40Z" finished-at="2023-10-12T04:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tricentis.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
